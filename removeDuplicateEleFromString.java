@@ -1,3 +1,11 @@
+/*
+Write a program to print after removing duplicates from a givenstring.
+i/p :
+String s1 = "abcdabcdabcd";
+o/p :
+abcd
+*/
+
 public class MyClass 
 {
 	
