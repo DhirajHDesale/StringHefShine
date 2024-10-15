@@ -1,3 +1,11 @@
+/*
+Write a program to replace all the 'd' characters with 'f'characters.
+i/p :
+String s="dddaa";
+o/p :
+fffaa
+RestrictedKeyWordsInCode: replace
+	*/
 
 public class MyClass 
 {
