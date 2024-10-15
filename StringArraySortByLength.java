@@ -1,3 +1,10 @@
+/*
+Write a program to sort in ascending and descending order by length of the given array of strings.
+i/p :
+String s1 = "welcome to hef";
+o/p :
+to hef welcome 
+*/
 public class MyClass 
 {
 
