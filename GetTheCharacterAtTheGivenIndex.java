@@ -1,3 +1,18 @@
+/*
+Write a program to get the character at the given index within theString.
+i/p :
+String s1 ="abcd";
+int index=3;
+o/p :
+d
+---------------------
+i/p :
+String s1 ="abcd";
+int index=5;
+o/p :
+out of range index
+RestrictedKeyWordsInCode: charAt
+	*/
 public class MyClass 
 {
 	public static void main(String[] args) 
