@@ -1,3 +1,10 @@
+/*
+Write a program to repeat each of the character twice in a given string.
+i/p :
+String s="abc";
+o/p :
+aabbcc
+	*/
 public class MyClass 
 {
 	
