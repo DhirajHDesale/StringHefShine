@@ -1,4 +1,14 @@
+/*
+Write a program to convert all the characters in a string tolowercase.
+i/p :
+String s1 = "WELCOME";
+o/p :
+welcome
 
+
+
+RestrictedKeyWordsInCode: toLowerCase
+	*/
 public class MyClass 
 {
 
